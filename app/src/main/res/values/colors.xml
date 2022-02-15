@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FFBB86FC</color>
+    <color name="colorPrimaryDark">#FF6200EE</color>
+    <color name="colorAccent">#FF3700B3</color>
+    <color name="colorPrimaryText">#FF03DAC5</color>
+    <color name="colorPrimaryTextOpaque">#FF018786</color>
+    <color name="colorEditTextBgColor">#FFFFFFFF</color>
+    <color name="colorEditTextBorderColor">#FF000000</color>
+    <color name="colorPrimaryButtonBg">#FFD700</color>
+    <color name="colorLoginNow">#000b76</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="Lightpink">#FFB6C1</color>
+    <color name="Hotpink">#FF69B4</color>
+    <color name="Deeppink">#FF1493</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="Green">#008000</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="Lime">#00FF00</color>
+    <color name="Orange">#FFA500</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="Tomato">#FF6347</color>
+</resources>
